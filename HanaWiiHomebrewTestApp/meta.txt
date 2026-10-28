@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+	<name>Hana Wii Homebrew Test App</name>
+	<version>0.0.1</version>
+	<coder>Various</coder>
+	<short_description>Hana Wii Homebrew Test App.</short_description>
+	<long_description>
+Hana Wii Homebrew Test App.
+</long_description>
+<ahb_access/>
+</app>
